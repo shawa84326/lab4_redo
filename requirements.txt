@@ -1,2 +1,2 @@
-streamlit==0.90.0
+streamlit==0.73.1
 pytz==2022.1
