@@ -64,4 +64,4 @@ If you encounter any issues or have questions regarding the World Clock Program,
 
 ## License
 
-This World Clock Program is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code according to the terms of the license.
+This World Clock Program is licensed under the ANKIT-LICNCSE. Feel free to use, modify, and distribute the code according to the terms of the license.
